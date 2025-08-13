@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ntcn1208/static/css/main.b76c1106.css",
+    "main.js": "/ntcn1208/static/js/main.d4c37612.js",
+    "static/js/453.8adb0212.chunk.js": "/ntcn1208/static/js/453.8adb0212.chunk.js",
+    "static/media/spritesheet.svg": "/ntcn1208/static/media/spritesheet.a4e0eb7ad904a4858361.svg",
+    "index.html": "/ntcn1208/index.html",
+    "main.b76c1106.css.map": "/ntcn1208/static/css/main.b76c1106.css.map",
+    "main.d4c37612.js.map": "/ntcn1208/static/js/main.d4c37612.js.map",
+    "453.8adb0212.chunk.js.map": "/ntcn1208/static/js/453.8adb0212.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b76c1106.css",
+    "static/js/main.d4c37612.js"
+  ]
+}
